@@ -1,4 +1,7 @@
 # hurriyet-js-api
+
+This api use https://github.com/aguleroglu/hurriyet-js
+
 # for articles
     https://hurriyet-js-api.herokuapp.com/articles
     https://hurriyet-js-api.herokuapp.com/articles?top=5
