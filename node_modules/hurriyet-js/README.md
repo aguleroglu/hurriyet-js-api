@@ -92,6 +92,8 @@
      11. Url
      12. Writers
 
+**NOTE :** Some text value have html tags. If you dont want html tags then use StripedText field from return values.
+
 **NOTE :** If you want select different field,skip or top parameters, send options parameters to single methods:
 
         api.article('40322757',{skip:20,top:40,columns['Id','Title']},function(res){
